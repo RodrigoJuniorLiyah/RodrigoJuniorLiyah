@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi dear 👋, I'm Rodrigo Junior</h1>
 <h3 align="center">A Student Of Web Developement</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
