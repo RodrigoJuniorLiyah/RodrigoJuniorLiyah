@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT
-
-- 💬 Ask me about ...
-- 📫 How to reach me: @Rodrigo_Junior_Liyah or LegendAttack
-
 <h1 align="center">Hi dear 👋, I'm Rodrigo Junior</h1>
 <h3 align="center">A Student Of Web Developement</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
+
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT
 
 - 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah)
 
