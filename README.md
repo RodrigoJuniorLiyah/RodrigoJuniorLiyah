@@ -22,3 +22,10 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="30" height="30"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true" alt="RodrigoJuniorLiyah"/> 
 </p>
+
+<p align="center">
+<a href="https://twitter.com/@Legend_Attack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-junior-969184166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.facebook.com/Rodrigo.Junior78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.instagram.com/rodrigo_junior_lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
