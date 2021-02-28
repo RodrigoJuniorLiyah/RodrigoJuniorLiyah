@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT
 
-- 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah)
+- 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
 
 - 🤔 I’m looking for help with ReactJS, React Native
 
