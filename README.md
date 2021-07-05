@@ -2,6 +2,9 @@
 <h3 align="center">A Student Of Web Developement</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
+[![YouTube Badge](https://img.shields.io/badge/protonmail--%2300EBEB?style=for-the-badge&logo=protonmail)](https://youtube.com/guilhermerodz)
+
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT
 
 - 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
@@ -24,8 +27,8 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/@Legend_Attack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-junior-969184166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.facebook.com/Rodrigo.Junior78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.instagram.com/rodrigo_junior_lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/@Legend_Attack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-junior-969184166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
+<a href="https://www.facebook.com/Rodrigo.Junior78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
+<a href="https://www.instagram.com/rodrigo_junior_lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
 </p>
