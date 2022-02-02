@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
 
-- 🤔 I’m looking for help with ReactJS, React Native
+- 🤔 I’m looking for help with Typescript and React Native
 
 - 💬 Ask me about **HTML, CSS end React**
 
