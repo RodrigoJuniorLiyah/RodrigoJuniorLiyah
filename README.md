@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with Typescript and React Native
 
-- 💬 Ask me about **HTML, CSS end React**
+- 💬 Ask me about **HTML, CSS and React**
 
 - 📫 How to reach me **Rodrigo.junior7@outlook.com**
 
