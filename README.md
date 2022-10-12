@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/nolan/64/html.png" alt="html5"  width="30" height="30"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="30" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="30" height="30"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true" alt="RodrigoJuniorLiyah"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true&theme=radical" alt="RodrigoJuniorLiyah"/> 
 </p>
 
 <p align="center">
