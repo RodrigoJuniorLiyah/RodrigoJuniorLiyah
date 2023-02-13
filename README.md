@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
 [![YouTube Badge](https://img.shields.io/badge/protonmail--%2300EBEB?style=for-the-badge&logo=protonmail)](Rodrigo.junior7@protonmail.com)
 
-- 🌱 I’m currently learning JAVASCRIPT, TYPESCRIPT, REACT, NEXT, HTML, CSS 
+- 🌱 I’m currently learning JAVASCRIPT, TYPESCRIPT, REACTJS, React Native, NEXTJS, HTML5, CSS 
 
 - 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
 
