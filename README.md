@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Junior</h1>
-<h3 align="center">A Student Of Web Developement</h3>
+<h3 align="center">I am software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
