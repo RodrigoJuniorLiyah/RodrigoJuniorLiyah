@@ -2,7 +2,7 @@
 <h3 align="center">I am software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cabral-dev/)
 [![YouTube Badge](https://img.shields.io/badge/protonmail--%2300EBEB?style=for-the-badge&logo=protonmail)](Rodrigo.junior7@protonmail.com)
 
 - 🌱 I’m currently learning NODE, PYTHON, ENGLISH
