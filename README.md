@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
 
-- 🤔 I’m looking for help with Typescript and React Native
+- 🤔 I’m looking for help with Python and Native Code
 
-- 💬 Ask me about **HTML, CSS and React**
+- 💬 Ask me about **JavaScript, Typescript, CSS and React**
 
 - 📫 How to reach me **Rodrigo.junior7@outlook.com**
 
