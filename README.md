@@ -1,34 +1,73 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Junior</h1>
-<h3 align="center">I am software engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah" alt="RodrigoJuniorLiyah" /> </p>
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cabral-dev/)
-[![YouTube Badge](https://img.shields.io/badge/protonmail--%2300EBEB?style=for-the-badge&logo=protonmail)](Rodrigo.junior7@protonmail.com)
-
-- 🌱 I’m currently learning NODE, PYTHON, ENGLISH
-
-- 👨‍💻 All of my projects are available at [github.com/RodrigoJuniorLiyah](https://github.com/RodrigoJuniorLiyah?tab=repositories)
-
-- 🤔 I’m looking for help with Python and Native Code
-
-- 💬 Ask me about **JavaScript, Typescript, CSS and React**
-
-- 📫 How to reach me **Rodrigo.junior7@outlook.com**
-
-- ⚡ Fun fact **I love animes 😜**
-
-<p align="left">
-<img src="https://img.icons8.com/nolan/64/react-native.png" alt="react" width="30" height="30"/>
-<img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css3"  width="30" height="30"/>
-<img src="https://img.icons8.com/nolan/64/html.png" alt="html5"  width="30" height="30"/>
-<img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="30" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="30" height="30"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true&theme=radical" alt="RodrigoJuniorLiyah"/> 
-</p>
+<!-- HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Rodrigo Junior</span></h1>
+<h3 align="center">🚀 Software Engineer | React Native & Frontend Developer</h3>
 
 <p align="center">
-<a href="https://twitter.com/@Legend_Attack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-junior-969184166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
-<a href="https://www.facebook.com/Rodrigo.Junior78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
-<a href="https://www.instagram.com/rodrigo_junior_lia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rodrigo Junior" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-cabral-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rodrigo.junior7@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RodrigoJuniorLiyah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### 💡 About Me
+
+💻 Passionate about building **scalable, high-performance mobile apps** with **React Native, TypeScript, and Expo**.  
+🎯 Focused on **UX/UI, performance optimization, and clean architecture**.  
+🌍 Based in **Belo Horizonte, Brazil** — open to **remote global opportunities**.  
+📈 Always learning and growing — currently exploring **Node.js, Python, and Cloud Architecture**.  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,html,css,nodejs,git,github,figma,firebase" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJuniorLiyah&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+---
+
+### 🧠 Currently Learning
+- 🌱 **Backend fundamentals** with Node.js & Python  
+- 🧩 **Advanced architecture** for scalable mobile apps  
+- 🗣️ **Improving English (B1 level)** for international collaboration  
+
+---
+
+### 💬 Ask Me About
+- React Native & Expo  
+- TypeScript / JavaScript  
+- UX/UI for mobile apps  
+- Firebase, CI/CD, and Clean Architecture  
+
+---
+
+### ⚡ Fun Facts
+- 🎮 Gamer & anime enthusiast  
+- 🎧 Loves lo-fi while coding  
+- 💡 Believes great apps come from clean code + good design  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoJuniorLiyah&label=Profile%20Views&color=0e75b6&style=flat" alt="RodrigoJuniorLiyah" />
+</p>
+
+---
+
+<h3 align="center">✨ “Code is the art of turning imagination into interaction.” ✨</h3>
