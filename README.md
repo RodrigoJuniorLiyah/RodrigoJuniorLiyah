@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodrigoJuniorLiyah&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-mu.vercel.app/api?username=RodrigoJuniorLiyah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-mu.vercel.app/api/top-langs/?username=RodrigoJuniorLiyah&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ---
